@@ -80,6 +80,14 @@ root@container:/#
 
 ***
 
+
+
+# 流程图
+
+![](images/mini-container流程图.jpg)
+
+***
+
 # 如果你用 GoLand 看代码
 
 建议把设置项 `File | Settings | Go | Build Tags & Vendoring` 改为 linux，以减少 IDE 的错误：
